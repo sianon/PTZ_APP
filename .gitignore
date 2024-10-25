@@ -1,0 +1,8 @@
+cmake-build-debug
+.idea
+*.user
+.vs
+.vscode
+build
+*.a
+*.dll

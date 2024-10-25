@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>quick_item.qml</file>
+        <file>images/playback.png</file>
+        <file>images/record.png</file>
+        <file>images/take_shot.png</file>
+        <file>images/back.png</file>
+        <file>images/color.png</file>
+        <file>images/iso.png</file>
+        <file>images/param.png</file>
+        <file>images/settings.png</file>
+        <file>images/ls.png</file>
+        <file>ls_dlg.qml</file>
+        <file>settings_dlg.qml</file>
+        <file>gas_enhance_dlg.qml</file>
+        <file>ls_mode_dlg.qml</file>
+        <file>iso_dlg.qml</file>
+        <file>param_dlg.qml</file>
+        <file>VideoFrameChild.qml</file>
+        <file>custom_qml/QuantitativeAnalysis.qml</file>
+    </qresource>
+</RCC>
